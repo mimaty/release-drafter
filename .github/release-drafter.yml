@@ -1,2 +1,9 @@
-template: $CHANGES
 commitish: "release"
+categories:
+  - title: "🚀 Features"
+    label: "feature"
+  - title: "🌈 Fixes"
+    label: "fix"
+  - title: "🥷🏻 Internal Use"
+    label: "internal use"
+template: $CHANGES
