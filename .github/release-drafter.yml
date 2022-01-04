@@ -1,9 +1,3 @@
 commitish: "release"
-categories:
-  - title: "🚀 Features"
-    label: "feature"
-  - title: "🌈 Fixes"
-    label: "fix"
-  - title: "🥷🏻 Internal Use"
-    label: "internal use"
+filter-by-commitish: true
 template: $CHANGES
